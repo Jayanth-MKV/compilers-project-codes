@@ -1,0 +1,16 @@
+
+void hi(){
+int p;
+p=0;
+print p;
+}
+
+int main()
+{
+int a;
+int b;
+a=11;
+b=a;
+print b;
+return 0;
+}

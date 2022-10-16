@@ -1,0 +1,6 @@
+1. Write Implementation of member functions of classes defined in symboltable.hh in to symboltable.cc
+2.Write Implementation of member functions of classes defined in ast.hh in to ast.cc
+3.Write Implementation of member functions of classes defined in function.hh in to function.cc
+4.Write Implementation of member functions of classes defined in program.hh in to program.cc
+5. Read BNF of Level1 TinyC, write 4 or 5 examples of TinyC programs ( test cases)
+6. Write lex &Yacc specifications for constructing AST and  constructing symbol table   

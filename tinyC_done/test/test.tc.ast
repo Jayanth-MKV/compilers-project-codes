@@ -1,0 +1,18 @@
+Program:
+   Procedure: hi_, Return Type: VOID
+
+         Asgn:
+            LHS (Name : p_)
+            RHS (Num : 0)
+         Print :
+               (Name : p_)   Procedure: main, Return Type: INT
+
+         Asgn:
+            LHS (Name : a_)
+            RHS (Num : 11)
+         Asgn:
+            LHS (Name : b_)
+            RHS (Name : a_)
+         Print :
+               (Name : b_)
+         RETURN Num : 0

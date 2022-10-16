@@ -1,0 +1,9 @@
+AST
+Asgn:
+	LHS ( Name : a )
+	RHS ( NumValue: 11 )
+Asgn:
+	LHS ( Name : b )
+	RHS ( Name : a )
+Print:
+	Name : b
