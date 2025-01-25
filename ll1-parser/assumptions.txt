@@ -1,0 +1,8 @@
+The grammar must be seperated by commas like this : 
+
+** E-> TP , P-> +TP | @ , T-> FQ,Q-> *FQ|@,F-> i|(E) **
+
+Here epsilon productions are taken as '@'
+
+The actual cpp file is ll.cpp
+

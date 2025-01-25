@@ -1,0 +1,29 @@
+The actual cpp file is ll.cpp
+
+hence run : make     (g++ ll1.cpp && ./a.out input.txt)
+
+then we get ll file 
+
+The input.txt contains the grammar which is to be given as input.
+
+Now run  "  ./ll input.txt   "
+
+Next it prompts to enter the string to validate if the grammar is LL1.
+
+After entering the string, the dot file automatically generates and opens.
+
+ex: 
+
+The Grammar is LL1 Accepted
+
+the grammar in input file is :   S ->  aSb  |   c
+
+Enter the string to check for the above Grammar
+
+--> Entered string is ' aacbb ' here.
+
+It displays whether the string is accepted or not
+
+if accepted then,
+g.dot is generated 
+and output.svg is generated and opened.
